@@ -1,0 +1,6 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…«£ý
+Fsquid:S1481"*Remove this unused "list2" local variable.(¥ÇÚÝÿÿÿÿÿ
+Hsquid:S1481",Remove this unused "newList" local variable.(‡Š•Åýÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "newList".(‡Š•Åýÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "list2".(¥ÇÚÝÿÿÿÿÿ
