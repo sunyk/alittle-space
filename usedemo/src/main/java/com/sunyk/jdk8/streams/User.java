@@ -5,7 +5,7 @@
  * use it only in accordance with the terms of the license agreement you entered
  * into with Tuhu.cn
  */
-package com.sunyk.streams;
+package com.sunyk.jdk8.streams;
 
 import java.util.List;
 

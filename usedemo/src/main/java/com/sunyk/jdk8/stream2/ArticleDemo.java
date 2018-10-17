@@ -5,7 +5,7 @@
  * use it only in accordance with the terms of the license agreement you entered
  * into with Tuhu.cn
  */
-package com.sunyk.stream2;
+package com.sunyk.jdk8.stream2;
 
 import java.util.*;
 import java.util.stream.Collectors;
