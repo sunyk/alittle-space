@@ -11,3 +11,11 @@ j
 :src/main/java/com/sunyk/jdk8/stream2/PersonEqualsDemo.java,3\a\3a282e347ad0bc3f5a5ae5a1ed825394d300d2d7
 o
 ?src/main/java/com/sunyk/jdk8/stream2/RemoveStringListDupli.java,7\1\71df76fc5dfc9e4363cc839c46e07fd64d138438
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/test/java/com/sunyk/assertdemo/AssertTry.java,2\b\2b9b558b8dba6d11481c21ad9d008461430da97c
+i
+9src/main/java/com/sunyk/stringdemo/StringBuilderDemo.java,0\e\0ec29a6e7754dc936734217c63e6a28b2cbb39c5
+f
+6src/main/java/com/sunyk/utilsdemo/SystemUtilsDemo.java,3\3\3331d7bdf326496fea89166bfd3eca0268e595e1
