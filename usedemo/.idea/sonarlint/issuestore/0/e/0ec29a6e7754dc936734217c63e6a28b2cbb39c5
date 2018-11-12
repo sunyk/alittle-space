@@ -1,7 +1,0 @@
-
-csquid:UselessImportCheck"8Remove this unused import 'sun.plugin2.util.SystemUtil'.(¨×µ§8€ô™Úè,
-esquid:CallToDeprecatedMethod"6Remove this use of "LINE_SEPARATOR"; it is deprecated.(±¨£ß8ÿŞîÙè,
-esquid:CallToDeprecatedMethod"6Remove this use of "LINE_SEPARATOR"; it is deprecated.(±¨£ß8’ŸïÙè,
-Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(¨×µ§8ÆğáÙè,
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨—êù8×Š“Ùè,

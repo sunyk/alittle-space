@@ -1,0 +1,5 @@
+
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±§†ï8ÖøşÄî,
+;squid:S1118"Hide this public constructor.(±§†ï8›ËşÄî,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÆôÌœ8›ËşÄî,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º·Çë

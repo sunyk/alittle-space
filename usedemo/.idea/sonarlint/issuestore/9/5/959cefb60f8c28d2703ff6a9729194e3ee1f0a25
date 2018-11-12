@@ -1,6 +1,0 @@
-
-]squid:S1854+":Remove this useless assignment to local variable "result".(‰®Óüÿÿÿÿ8Ğ˜ñÿç,
-[
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8›íÿç,
-Nsquid:S1481+"+Remove this unused "result" local variable.(‰®Óüÿÿÿÿ8Ğ˜ñÿç,
-isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(œ˜Í€8Ğ˜ñÿç,

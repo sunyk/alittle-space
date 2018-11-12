@@ -1,39 +1,0 @@
-
-Qsquid:S16118"5Remove the parentheses around the "article" parameter(ÖØ‚Ãúÿÿÿÿ
-T
-squid:S106r"9Replace this use of System.out or System.err by a logger.(•™‰îüÿÿÿÿ
-O
-squid:S106w"9Replace this use of System.out or System.err by a logger.(ÆÕÀœ
-O
-squid:S1067"9Replace this use of System.out or System.err by a logger.(”“İ„
-rsquid:S11929"[Define a constant instead of duplicating this literal "        Article titile is:" 3 times.(ßÍı”
-O
-squid:S106`"9Replace this use of System.out or System.err by a logger.(”“İ„
-usquid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç²½ìûÿÿÿÿ
-msquid:S11927"VDefine a constant instead of duplicating this literal "    Province Code is:" 3 times.(”“İ„
-O
-squid:S106M"9Replace this use of System.out or System.err by a logger.(ßÍı”
-O
-squid:S106K"9Replace this use of System.out or System.err by a logger.(”“İ„
-Hsquid:S16028",Remove useless curly braces around statement(ÖØ‚Ãúÿÿÿÿ
-Hsquid:S1602L",Remove useless curly braces around statement(ÖØ‚Ãúÿÿÿÿ
-T
-squid:S106m"9Replace this use of System.out or System.err by a logger.(¾½Øúÿÿÿÿ
-T
-squid:S106I"9Replace this use of System.out or System.err by a logger.(Ïƒöşÿÿÿÿ
-O
-squid:S106b"9Replace this use of System.out or System.err by a logger.(ßÍı”
-O
-squid:S1069"9Replace this use of System.out or System.err by a logger.(ßÍı”
-Qsquid:S1611a"5Remove the parentheses around the "article" parameter(ÖØ‚Ãúÿÿÿÿ
-T
-squid:S106^"9Replace this use of System.out or System.err by a logger.(Ïƒöşÿÿÿÿ
-Qsquid:S1611L"5Remove the parentheses around the "article" parameter(ÖØ‚Ãúÿÿÿÿ
-csquid:S11929"LDefine a constant instead of duplicating this literal ",author is:" 3 times.(ßÍı”
-msquid:S11925"QDefine a constant instead of duplicating this literal "Country Code is:" 3 times.(Ïƒöşÿÿÿÿ
-Hsquid:S1602a",Remove useless curly braces around statement(ÖØ‚Ãúÿÿÿÿ
-usquid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë÷×³ÿÿÿÿÿ
-T
-squid:S1065"9Replace this use of System.out or System.err by a logger.(Ïƒöşÿÿÿÿ
-psquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ò•Æ
-esquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ˆªB
