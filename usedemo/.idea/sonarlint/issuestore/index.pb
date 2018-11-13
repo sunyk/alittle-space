@@ -21,3 +21,5 @@ r
 Bsrc/main/java/com/November/singleton/valid/ValidSingletonDemo.java,e\f\ef066e026ec2ad3349a457050faa7eb6ac6a92ca
 j
 :src/main/java/com/November/singleton/valid/Singleton4.java,d\2\d219d3702021087625b6738cdf3ba3e6129beea5
+o
+?src/main/java/com/November/stringbuilder/StringBuilderDemo.java,c\8\c863b50ba3ed89ea8c34c452e98db7e8634c2299

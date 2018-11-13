@@ -29,7 +29,7 @@ public class FutureAsyncTask {
         long start = System.currentTimeMillis();
         Thread.sleep(random.nextInt(1000));
         long end = System.currentTimeMillis();
-        System.out.println("完成任务一，耗时：" + (end -start) + "ns");
+        System.out.println("完成任务一，耗时：" + (end -start) + "ms");
         return new AsyncResult<>("完成任务一");
     }
 
