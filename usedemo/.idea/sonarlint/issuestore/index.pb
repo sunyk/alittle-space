@@ -23,3 +23,11 @@ j
 :src/main/java/com/November/singleton/valid/Singleton4.java,d\2\d219d3702021087625b6738cdf3ba3e6129beea5
 o
 ?src/main/java/com/November/stringbuilder/StringBuilderDemo.java,c\8\c863b50ba3ed89ea8c34c452e98db7e8634c2299
+k
+;src/main/java/com/November/singleton/valid/Singleton41.java,0\a\0a7a01ff6a6fd8923211de450050bcc79b1210d7
+j
+:src/main/java/com/November/singleton/valid/Singleton5.java,a\b\ab11b4b1420a1a25409046d911e3fe5fcc0eb96b
+k
+;src/main/java/com/November/singleton/valid/Singleton51.java,8\d\8d855f93c4e577abb5db6cbfefa18a0323cd143e
+j
+:src/main/java/com/November/singleton/valid/Singleton6.java,9\1\9182b6b092676a3dcca2cec20df204a01d9dc7b0

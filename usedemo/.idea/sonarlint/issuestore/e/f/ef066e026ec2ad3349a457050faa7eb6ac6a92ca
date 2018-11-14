@@ -1,13 +1,13 @@
 
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÑÂµ8Ñ›±‹ï,
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°ôÖ¢8¦Æ’‹ï,
-Rsquid:S1481"4Remove this unused "validSingleton1" local variable.(¹®ß³8¦™°‹ï,
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¸ÿÿÿÿÿ
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ý‡ÆË8¸ôš‹ï,
+asquid:S1854"CRemove this useless assignment to local variable "validSingleton1".(¹®ß³8¦™°‹ï,
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(¼¼ëîÿÿÿÿÿ8«ÀíŠï,
+Rsquid:S1481"4Remove this unused "validSingleton1" local variable.(¹®ß³8¦™°‹ï,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ý‡ÆË8¸ôš‹ï,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÑÂµ8Ñ›±‹ï,
 Msquid:S2440"/Remove this instantiation of "ValidSingleton1".(¹®ß³8¦™°‹ï,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹þ¬Ðûÿÿÿÿ8¼ÃýŠï,
 V
 squid:S106 "9Replace this use of System.out or System.err by a logger.(ìœã®8É½©‹ï,
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹þ¬Ðûÿÿÿÿ8¼ÃýŠï,
-asquid:S1854"CRemove this useless assignment to local variable "validSingleton1".(¹®ß³8¦™°‹ï,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°ôÖ¢8¦Æ’‹ï,

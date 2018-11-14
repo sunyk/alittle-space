@@ -1,4 +1,4 @@
 
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º·Çë
-@squid:S1118"Hide this public constructor.(ŸÄ¹ıÿÿÿÿ8ê”›Åî,
 ¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÄ¹ıÿÿÿÿ8Ï  Åî,
+@squid:S1118"Hide this public constructor.(ŸÄ¹ıÿÿÿÿ8ê”›Åî,

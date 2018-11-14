@@ -1,9 +1,9 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨ÈÜŸıÿÿÿÿ8¸ÍÔŠï,
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¸ÿÿÿÿÿ
-gsquid:UselessImportCheck
-"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8ÃŠåŠï,
 Ÿsquid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Ô¾Ù8åŞŠï,
 @squid:S1118"Hide this public constructor.(Ê”·Æûÿÿÿÿ8ÎÿËŠï,
 ~squid:S00115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù¬õğøÿÿÿÿ8Å’áŠï,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ÈÜŸıÿÿÿÿ8¸ÍÔŠï,
+gsquid:UselessImportCheck
+"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8ÃŠåŠï,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚š¸ÿÿÿÿÿ
