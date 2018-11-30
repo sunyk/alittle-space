@@ -42,7 +42,7 @@ public class StreamTest13 {
          */
         //流式，一行代码
         Map<String, List<Student>> map = students.stream().collect(Collectors.groupingBy(Student::getName));
-//        System.out.println(map);
+        System.out.println(map);
 
         //select count(*) from student group by name;
         Map<String, Long> map1 = students.stream().collect(Collectors.groupingBy(Student::getName, Collectors.counting()));

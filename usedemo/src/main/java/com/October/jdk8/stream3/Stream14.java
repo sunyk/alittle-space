@@ -43,8 +43,8 @@ public class Stream14 {
 //        set.forEach(System.out::println);
 
         //拼接字符串
-        String str = stream.collect(Collectors.joining());
-        System.out.println(str);
+//        String str = stream.collect(Collectors.joining());
+//        System.out.println(str);
 
     }
 
