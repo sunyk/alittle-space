@@ -28,7 +28,7 @@ public class SyncThreadTaskTests {
 
     @Test
     public void test() throws Exception {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 1; i++) {
             taskThread.doTaskOne();
             taskThread.doTaskTwo();
             taskThread.doTaskThree();
