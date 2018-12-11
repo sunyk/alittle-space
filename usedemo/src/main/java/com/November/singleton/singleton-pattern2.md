@@ -106,7 +106,7 @@ public class Singleton5 {
 
 代码不安全截图
 
-![1542025736992](C:\Users\sunyang\AppData\Local\Temp\1542025736992.png)
+![Alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114135032509-1733190840.png)
 
 ##### volatile单例中的作用
 
@@ -173,7 +173,7 @@ public class Singleton6 {
 
 使用javac进行编译，会得到如下图的三个class文件：
 
-![1542027696077](C:\Users\sunyang\AppData\Local\Temp\1542027696077.png)
+![alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114135048559-1705134876.png)
 
 从图上可以看到，静态嵌套类是单独作为一个class存在，而其中创建对象的逻辑位于嵌套类中，jvm读取嵌套类的字节码以后才能创建对象，从硬盘中读取class文件，在内存中分配空间，是一件费事费力的工作，所以jvm选择按需加载，没有必要加载的就不加载，没必要分配就不分配。
 

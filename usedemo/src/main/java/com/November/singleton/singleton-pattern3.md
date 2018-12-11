@@ -128,7 +128,7 @@ public class ReflectTestProtect {
 
 结果图
 
-![1542163162518](C:\Users\sunyang\AppData\Local\Temp\1542163162518.png)
+![alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114134500047-1724387062.png)
 
 ##### 推荐新写法
 
@@ -140,7 +140,7 @@ public class ReflectTestProtect {
 
 枚举类会默认实现Serializable和Comparable两个接口，且采用enum声明后，该类会被编译器加上final声明，故该类是无法继承的。枚举类的内部定义的枚举值就是该类的实例。除此之外，枚举类和普通类一致。因此可以利用枚举类来实现一个单例模式。直观图如下：
 
-![1542165521590](C:\Users\sunyang\AppData\Local\Temp\1542165521590.png)
+![alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114134539057-881282767.png)
 
 推荐写法代码：
 
@@ -182,9 +182,7 @@ public class EnumTest {
 
 结果图：
 
-
-
-![1542166418016](C:\Users\sunyang\AppData\Local\Temp\1542166418016.png)
+![alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114134603621-1957585729.png)
 
 结论：单元素的枚举类型已经成为实现单例模式的最佳方法。
 
@@ -259,7 +257,7 @@ public class SerializableTest {
 
 结论图
 
-![1542169010833](C:\Users\sunyang\AppData\Local\Temp\1542169010833.png)
+![alt](https://img2018.cnblogs.com/blog/612682/201811/612682-20181114134620560-223737319.png)
 
 
 
