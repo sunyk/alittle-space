@@ -71,3 +71,17 @@ g
 7src/main/java/com/November/splitListDemo/SplitList.java,6\a\6a4ec54e53fae74c7cb9f7accbbb2c5f937ddb58
 p
 @src/main/java/com/November/splitListDemo/ListsPartitionDemo.java,c\3\c3e56af7a38212fa8680a6dd00cf0a3f81c4ff1d
+l
+<src/main/java/com/October/jdk8/stream4/StreamReturnDemo.java,2\f\2fecf6d9de9a7e4a10899ae10d055d47a7f51ac2
+l
+<src/main/java/com/October/jdk8/stream4/StreamFilterDemo.java,7\b\7b1a04b70628777d90a3b8328dcf906edd5d29e1
+`
+0src/main/java/com/December/GenericCodeUtils.java,1\a\1a82d59217b3f38eaf77d114d0d836bb957b0ae0
+_
+/src/main/java/com/December/CodeFormatUtils.java,f\d\fdd4a0f76388adec27ce9b289801e9fae3130600
+^
+.src/main/java/com/December/CompareTwoList.java,6\4\64c0afc569785417b417804dabbea387e3a58171
+]
+-src/main/java/com/December/LabelRangeDeo.java,2\f\2f53685b8c24ee60f817f642c76b4d0d103d228f
+[
++src/main/java/com/December/SameListBug.java,b\1\b1187a59e76b2cdbc42aecdbb3ad10a9a908a05e
