@@ -8,6 +8,8 @@
 package com.sunyk.flux.controller;
 
 import com.sunyk.annotation.ControllerLogAspectAnnotation;
+import com.sunyk.enums.BizErrorCodeEnum;
+import com.sunyk.exceptions.BizException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -22,7 +24,11 @@ public class UseWebFluxController {
     @GetMapping("/")
     @ControllerLogAspectAnnotation(description = "start...", isPrintPostData = true)
     public String useLog(){
+
+        System.out.println(100/0);
+
         System.out.println("use log....");
+
         return null;
     }
 }

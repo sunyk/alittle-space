@@ -16,13 +16,14 @@ import org.springframework.stereotype.Component;
  * @author sunyang
  * @date 2018/12/19 18:39
  */
-@Aspect
+/*@Aspect
 @Component
 public class ServiceMonitor {
 
+    //暂时不用
     @AfterReturning("execution(* com.sunyk.*.controller.UseWebFluxController.useLog())")
     public void logServiceAccess(JoinPoint joinPoint){
         System.out.println("Completed:" + joinPoint);
     }
-}
+}*/
 

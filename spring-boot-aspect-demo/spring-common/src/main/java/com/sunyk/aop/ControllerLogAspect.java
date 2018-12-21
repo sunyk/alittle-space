@@ -18,6 +18,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * aop处理对应controller 定义连接点
+ * Using AOP to define Aspect components
  * smile example:@Pointcut("execution(* com.tuhu.document.*.controller.*Controller.*(..))")
  *
  * @Aspect 切面
@@ -32,6 +33,11 @@ import org.springframework.stereotype.Component;
 @Component
 @Configuration
 public class ControllerLogAspect  extends AbstractControllerLogAspect{
+    /**
+     * 抽象类可以封装到底层
+     * ControllerLogAspect类是可以放到对应项目中，继承抽象的AbstractControllerLogAspect重写controllerLog()方法和定义
+     * 对应项目需要扫描的路径 连接点pointcut
+     */
 
     @Override
     @Pointcut("execution(* com.sunyk.*.controller.*Controller.*(..))")
