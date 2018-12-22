@@ -59,5 +59,9 @@ git push origin master
 3.git push origin master:master
 ~~~
 
+### 如何删除远程整个资源
 
+~~~properties
+git remote remove origin 删除即可
+~~~
 
