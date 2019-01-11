@@ -89,3 +89,9 @@ X
 (src/main/java/com/December/ListDemo.java,5\2\52584de8535fd2cf34cdfeee90dabb9cab14b88e
 ^
 .src/main/java/com/December/MapForeachDemo.java,0\8\08d5800f1d8962489beb63e4aed6689c3bb68a91
+V
+&src/main/java/com/January/Lottery.java,a\5\a5b656ae95ac88f94fbd296f616b83e852067346
+[
++src/main/java/com/January/ParseIntRule.java,2\d\2d1fd796ea21b869787199da6c7a202314b1551a
+W
+'src/main/java/com/January/CharDemo.java,4\9\497d6a8893ec7dc20066d98552059fa4ce941511
