@@ -68,4 +68,37 @@
 	...
 ~~~
 
-如果我还是想用lambda
+如果我还是想用lambda foreach 创建对象
+
+~~~java
+	...
+        List<Document> documents = new ArrayList<>(800);
+            final Document[] document = new Document[1];
+            docIdList.forEach(docId ->{
+                QueryKnowledgeDocResponse doc = synchronizeRedisBaseDoc(docId);
+                if (!StringUtils.isBlank(doc)){
+                    Map<String, Object> docMap = BeanToMap.objectToMap(doc);
+                    document[0] = new Document();
+                    document[0].setDocumentId(docId.toString()).setDocument(docMap);
+                    documents.add(document[0]);
+                }
+            });
+	...
+    
+~~~
+
+### 分析
+
+~~~java
+Object object= new Object();
+~~~
+
+写在100个循环内等于你有100个引用对应了100个对象，所以100个对象在一段时间都占用内存，知道内存不足GC主动回收。
+
+~~~java
+object = new Object();
+~~~
+
+写在100个循环内等于你使用1个引用分别100次调用了100个对象，所以当后一个对象init后，前一个对象已经是“无引用状态”，会很快的被GC自动回收（在你的循环还没结束时，可能已经进行了多次GC回收，这点重要）
+
+需要更好管理内存。
