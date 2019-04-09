@@ -14,12 +14,6 @@ package com.March.list;
 public class ListDemo {
 
     public static void addBeforeNode(ListNode head,int value){
-        ListNode first;
-        ListNode newHead = new ListNode(first.value);
-        first = head;
-        first.prev =
-//        ListNode newHead = new ListNode()
-
 
 
     }
