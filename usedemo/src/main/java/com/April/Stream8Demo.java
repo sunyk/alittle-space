@@ -7,19 +7,18 @@
  */
 package com.April;
 
+import java.util.Arrays;
 import java.util.List;
 
 /**
  * @author sunyang
- * @date 2019/4/12 18:59
+ * @date 2019/4/17 13:47
  */
-public class TrimDemo {
+public class Stream8Demo {
 
     public static void main(String[] args) {
-        String str = " 1 1 ";
-        String str1 = " 11 ";
-        System.out.println(str.trim());
-
+        List<String> list = Arrays.asList("BR-BO-Safety|114","BR-BO-Safety|115","BR-BO-Safety|114");
+        System.out.println(list.stream().distinct().count());
     }
 }
 

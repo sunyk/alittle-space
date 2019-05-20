@@ -7,19 +7,16 @@
  */
 package com.April;
 
-import java.util.List;
-
 /**
  * @author sunyang
- * @date 2019/4/12 18:59
+ * @date 2019/4/15 17:15
  */
-public class TrimDemo {
+public class CountDemo {
 
     public static void main(String[] args) {
-        String str = " 1 1 ";
-        String str1 = " 11 ";
-        System.out.println(str.trim());
-
+        int i = 0;
+        ++i;
+        System.out.println(i);
     }
 }
 

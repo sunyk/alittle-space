@@ -275,3 +275,17 @@ U
 %src/main/java/com/April/FileDemo.java,8\9\89140116d87b573ddc2dcfdc6881df590a31c42f
 f
 6src/main/java/com/April/thread/CallableThreadDemo.java,9\d\9d762879e02d482c41b506790e0f8d91a9699132
+U
+%src/main/java/com/April/TrimDemo.java,4\6\46357d326c30638f1dffcfc1a736e05a5af38354
+V
+&src/main/java/com/April/CountDemo.java,c\8\c88d476feaf3a516773e14aba3ba8967318efbfd
+Z
+*src/main/java/com/April/ArrayListDeme.java,0\0\0064bfa3b22910a96e9075aaf9a5c26fbada9647
+W
+'src/main/java/com/April/LinkedDemo.java,f\a\fa0c3b213b494f270a86e67f96ac39f6eead4215
+X
+(src/main/java/com/April/Stream8Demo.java,2\8\287e441891f41bd917ecf842e83be756ffd1cbd2
+V
+&src/main/java/com/April/ParseHtml.java,2\9\291411b6588580bfe3aa5c4899d04a0d558d3781
+W
+'src/main/java/com/April/Parse2Html.java,5\4\54d130f7edbf02226f3e873502b0aed25af2dde1
