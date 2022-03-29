@@ -42,11 +42,11 @@
 public class PersonEqualsDemo {
 
     public static void main(String[] args) {
-        Person p1 = new Person(1L, "tuhu1001");
-        Person p2 = new Person(2L, "tuhu1002");
-        Person p3 = new Person(3L, "tuhu1003");
-        Person p4 = new Person(4L, "tuhu1004");
-        Person p5 = new Person(5L, "tuhu1005");
+        Person p1 = new Person(1L, "SunAd1001");
+        Person p2 = new Person(2L, "SunAd1002");
+        Person p3 = new Person(3L, "SunAd1003");
+        Person p4 = new Person(4L, "SunAd1004");
+        Person p5 = new Person(5L, "SunAd1005");
 
         List<Person> persons = Arrays.asList(p1,p1,p1,p2,p3,p4,p5,p5);
 

@@ -1,9 +1,9 @@
 /*
- * Copyright 2019 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2019 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  */
 package com.March;
 
@@ -20,7 +20,7 @@ public class URLDemo {
 
         String detailUrl = "测试122";
         String s = URLEncoder.encode(detailUrl, "utf-8");
-        System.out.println("tuhu:///webView?url=https://kb.tuhu.work/customer-service/#/content/?docId=855&title="+s);
+        System.out.println("SunAd:///webView?url=https://kb.SunAd.work/customer-service/#/content/?docId=855&title="+s);
 
         System.out.println("".substring(0,0));
     }

@@ -1,7 +1,7 @@
 ### about  com.github.pagehelper.PageInfo 重写
 
 ~~~java
-package com.tuhu.document.common;
+package com.SunAd.document.common;
 
 import java.util.List;
 

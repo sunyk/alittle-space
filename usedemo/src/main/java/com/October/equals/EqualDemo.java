@@ -1,9 +1,9 @@
 /*
- * Copyright 2018 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2018 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  */
 package com.October.equals;
 
@@ -21,23 +21,23 @@ public class EqualDemo {
         List<OverrideEqualsModel> list = new ArrayList<>();
         OverrideEqualsModel model = new OverrideEqualsModel();
         model.setId("1001");
-        model.setName("tuhu1");
+        model.setName("SunAd1");
         list.add(model);
         model.setId("1002");
-        model.setName("tuhu4");
+        model.setName("SunAd4");
         list.add(model);
         model.setId("1005");
-        model.setName("tuhu2");
+        model.setName("SunAd2");
         list.add(model);
         System.out.println(list);
 
         List<OverrideEqualsModel> list2 = new ArrayList<>();
         OverrideEqualsModel model2 = new OverrideEqualsModel();
         model2.setId("1003");
-        model2.setName("tuhu3");
+        model2.setName("SunAd3");
         list2.add(model2);
         model2.setId("1002");
-        model2.setName("tuhu2");
+        model2.setName("SunAd2");
         list2.add(model2);
 
         List result= list.stream().distinct().collect(Collectors.toList());

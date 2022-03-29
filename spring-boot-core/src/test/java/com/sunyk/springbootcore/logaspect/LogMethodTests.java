@@ -1,9 +1,9 @@
 /*
- * Copyright 2018 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2018 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  */
 package com.sunyk.springbootcore.logaspect;
 

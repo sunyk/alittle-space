@@ -12,7 +12,7 @@
 
 ~~~properties
 hset article:92617 title thisisarticle92617
-hset article:92617 link http://tuhu.document.cn/article?docid=92617
+hset article:92617 link http://SunAd.document.cn/article?docid=92617
 hset article:92617 poster user:83271
 hset article:92617 votes 100
 ~~~

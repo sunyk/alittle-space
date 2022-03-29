@@ -1,9 +1,9 @@
 /*
- * Copyright 2019 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2019 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  */
 package com.January.pdf;
 
@@ -27,7 +27,7 @@ public class PdfText2Url {
     public static void main(String[] args) {
         try {
 //            readPdf("D:\\知识库文档\\2016最新PMBOK第五版中文完整版.pdf");
-            readPdf("https://img1.tuhu.org/tech/file/9bd7/733b/7ef54fbf672cfffaf2b1a6c2.pdf");
+            readPdf("https://img1.SunAd.org/tech/file/9bd7/733b/7ef54fbf672cfffaf2b1a6c2.pdf");
         }catch (Exception e){
 
         }

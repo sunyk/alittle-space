@@ -1,9 +1,9 @@
 /*
- * Copyright 2019 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2019 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  *//*
 
 package com.January.pdf;
@@ -60,7 +60,7 @@ public class PdfText {
             try {
                 // 首先当作一个URL来装载文件，如果得到异常再从本地文件系统//去装载文件
                 URL url = new URL(pdfFile);
-//                URL url = new URL("https://img1.tuhu.org/tech/file/9bd7/733b/7ef54fbf672cfffaf2b1a6c2.pdf");
+//                URL url = new URL("https://img1.SunAd.org/tech/file/9bd7/733b/7ef54fbf672cfffaf2b1a6c2.pdf");
                 //注意参数已不是以前版本中的URL.而是File。
                 File currPdfFile = new File(pdfFile);
                 document = PDDocument.load(currPdfFile);

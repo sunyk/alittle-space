@@ -1,9 +1,9 @@
 /*
- * Copyright 2019 tuhu.cn All right reserved. This software is the
- * confidential and proprietary information of tuhu.cn ("Confidential
+ * Copyright 2019 SunAd.cn All right reserved. This software is the
+ * confidential and proprietary information of SunAd.cn ("Confidential
  * Information"). You shall not disclose such Confidential Information and shall
  * use it only in accordance with the terms of the license agreement you entered
- * into with Tuhu.cn
+ * into with SunAd.cn
  */
 package com.March.pdffrom;
 
@@ -28,7 +28,7 @@ import java.util.List;
 public class ImageFromPdf {
 
     public static void main(String[] args) throws Exception {
-        URL url = new URL("https://img1.tuhu.org/tech/file/823b/1ff3/74f06f087a20414ea254805a.pdf");
+        URL url = new URL("https://img1.SunAd.org/tech/file/823b/1ff3/74f06f087a20414ea254805a.pdf");
         URLConnection con = url.openConnection();
         con.setConnectTimeout(3 * 1000);
         InputStream inputStream = con.getInputStream();
